@@ -5,6 +5,7 @@ Welcome to the Electronic Vehicle Recharge Bunk project! This web-based applicat
 Frontend: HTML, CSS, JavaScript
 Backend: Firebase Realtime Database
 # Screenshots
+![image alt](https://github.com/manisha-1112/Electric_Vehicle_Recharge_Bunk/blob/main/homepage.png?raw=true)
 
 # Getting Started
 Clone the project repository from GitHub.
