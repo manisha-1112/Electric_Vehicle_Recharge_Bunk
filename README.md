@@ -4,6 +4,7 @@ Welcome to the Electronic Vehicle Recharge Bunk project! This web-based applicat
 # Technologies Used
 Frontend: HTML, CSS, JavaScript
 Backend: Firebase Realtime Database
+# Screenshots
 
 # Getting Started
 Clone the project repository from GitHub.
